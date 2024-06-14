@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "959900525065",
+    "firebase_url": "https://flutter-login-c2825-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutter-login-c2825",
+    "storage_bucket": "flutter-login-c2825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959900525065:android:f8728ea704ade653614ed8",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCShmlYfDc7T0eAz6Dc5M5q0yATwHs67lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

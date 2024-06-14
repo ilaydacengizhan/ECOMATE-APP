@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "C:/login/linux"
+}
