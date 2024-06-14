@@ -8,5 +8,14 @@
 ![8](https://github.com/ilaydacengizhan/ECOMATE-APP/assets/90273136/9339a5f7-5902-47f1-91c0-54ae92ba2e7a)
 ![9](https://github.com/ilaydacengizhan/ECOMATE-APP/assets/90273136/2a604552-cea6-455f-912b-19a5aed37a73)
 ![10](https://github.com/ilaydacengizhan/ECOMATE-APP/assets/90273136/85e2b11c-bb62-4574-82f4-262572881dce)
+![11](https://github.com/ilaydacengizhan/ECOMATE-APP/assets/90273136/4d4fd7f5-8e20-4554-b119-c6ffedf06b60)
+![12](https://github.com/ilaydacengizhan/ECOMATE-APP/assets/90273136/d32d195e-bb4d-4fae-9d39-34104fe0f332)
+![13](https://github.com/ilaydacengizhan/ECOMATE-APP/assets/90273136/a01015da-ca7d-4b35-9533-08806763bc12)
+![14](https://github.com/ilaydacengizhan/ECOMATE-APP/assets/90273136/fa6d43c4-ad50-4f90-9a65-240197aa962a)
+![15](https://github.com/ilaydacengizhan/ECOMATE-APP/assets/90273136/2dc3fb47-f6c4-49a2-8bc4-c2fa5f791bba)
+![16](https://github.com/ilaydacengizhan/ECOMATE-APP/assets/90273136/f861bcf5-4d9b-4002-887d-957cdf694523)
+![17](https://github.com/ilaydacengizhan/ECOMATE-APP/assets/90273136/b3f149c5-d98f-45db-a767-9ac87739a104)
+![18](https://github.com/ilaydacengizhan/ECOMATE-APP/assets/90273136/015b6391-213b-4eab-ae24-ba9c4ce34e0b)
+
 
 
